@@ -1,2 +1,4 @@
 # trialbycombat.github.io
-SVI test
+My little first bit of coding.
+
+Oh, I love :coffee: 
